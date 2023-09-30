@@ -1,0 +1,9 @@
+/* write css so that our web page looks awesome */
+
+body {
+    background-color: #272727;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
+}
